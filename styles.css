@@ -1,0 +1,16 @@
+/* styles.css */
+
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.st-title {
+    color: #0066cc;
+}
+
+.st-button {
+    background-color: #009933;
+    color: #fff;
+}
